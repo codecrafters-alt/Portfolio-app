@@ -22,8 +22,6 @@ project_page = st.Page(
 
 pg=st.navigation(pages=[about_page, project_page])
 
-st.sidebar.image(r"C:\Users\jaydeb chakraborty\OneDrive\Desktop\gnj.png")
-
 social_icons_data = {
     "LinkedIn": ["https://www.linkedin.com/in/anik-chakraborty-5b4103275", "https://cdn-icons-png.flaticon.com/128/3536/3536505.png"],
     "GitHub": ["https://github.com/codecrafters-alt/CBTCIP", "https://cdn-icons-png.flaticon.com/128/5968/5968866.png"],

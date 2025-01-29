@@ -33,7 +33,7 @@ def show_contact_form():
 
 col1 , col2= st.columns(2, gap="small", vertical_alignment="center")
 with col1:
-    st.image(r"C:\Users\jaydeb chakraborty\OneDrive\Desktop\anik.png")
+    st.title("hello!")
 with col2:
     st.title("Anik Chakraborty")
     st.write("""
